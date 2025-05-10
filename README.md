@@ -21,3 +21,19 @@ Content placement shows where various elements like text, images, and buttons wi
 ### Functionality
 Functionality represents the interactive elements of the wireframe, such as buttons, links, and forms. These elements are critical for user engagement and ensuring a seamless experience.
 - **Example**: A "Book Now" button must be easily accessible and prominently placed to encourage users to complete the booking process.
+
+---
+
+# Types of Wireframes
+
+Wireframes can be classified into two types: **low-fidelity** and **high-fidelity**. Understanding the differences helps you choose the right one based on the stage of your project.
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, rough sketches or basic outlines. They focus on layout and functionality without details such as colors, images, or typography. These are typically used in the early stages of the design process to quickly visualize concepts and gather feedback.
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and closer to the final product design. They often include exact measurements, fonts, and interactions. These are used later in the design process to fine-tune the design before development begins.
+
+## What Type of Wireframe is Here?
+
+The wireframe used in this project is a **high-fidelity wireframe**, which includes detailed design elements like typography, interactions, and layout, closely resembling the final product.
