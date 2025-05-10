@@ -38,9 +38,14 @@ High-fidelity wireframes are more detailed and closer to the final product desig
 
 The wireframe used in this project is a **high-fidelity wireframe**, which includes detailed design elements like typography, interactions, and layout, closely resembling the final product.
 
-# Popular Wireframing Tools
+## Popular Wireframing Tools
 
 There are several wireframing tools available, but **Figma** stands out as one of the most popular and effective options. 
 
 ### Figma
 Figma is a web-based design tool known for its collaborative features, making it ideal for wireframing in teams. It offers an intuitive interface, real-time collaboration, and easy sharing of designs. Its versatility allows designers to create both low- and high-fidelity wireframes with precision, making it a great choice for various stages of the design process.
+
+##Benefits of Wireframing in Software Development
+
+Wireframing plays a critical role in guiding the design process and improving team communication. By providing a clear layout of the system’s interface, wireframes help ensure alignment between designers, developers, and stakeholders. For example, in a booking system, a wireframe of the user flow helps developers understand where each feature (like the "Book Now" button) should be placed and how it interacts with other elements. This reduces misunderstandings and allows teams to iterate quickly and effectively before building the actual product.
+
