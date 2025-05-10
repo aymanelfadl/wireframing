@@ -37,3 +37,10 @@ High-fidelity wireframes are more detailed and closer to the final product desig
 ## What Type of Wireframe is Here?
 
 The wireframe used in this project is a **high-fidelity wireframe**, which includes detailed design elements like typography, interactions, and layout, closely resembling the final product.
+
+# Popular Wireframing Tools
+
+There are several wireframing tools available, but **Figma** stands out as one of the most popular and effective options. 
+
+### Figma
+Figma is a web-based design tool known for its collaborative features, making it ideal for wireframing in teams. It offers an intuitive interface, real-time collaboration, and easy sharing of designs. Its versatility allows designers to create both low- and high-fidelity wireframes with precision, making it a great choice for various stages of the design process.
